@@ -5,7 +5,7 @@ lower_Bound = int(input('Enter Lower Bound Value : '))
 upper_Bound = int(input('Enter Upper Bound Value : '))
 
 number = random.randint(lower_Bound, upper_Bound)
-print('You Have Only 7 Guessing Chances.')
+print('      You Have Only 7 Guessing Chances.')
 
 
 check = 1
